@@ -2,6 +2,7 @@
 ### Sorting Algorithm
 - Kahn's Algorithm
 - Counting sort
+- Radix Sort
 
 ### Dynamic Programming
 - Kadane's Algorithm
